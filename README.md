@@ -1,17 +1,3 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/138301021?s=400&u=99b5645a10d6e02328dbf3b43600e541048f5391&v=4"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://discord.com/users/1317514982363107423" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
 <h1 align="center">shikataganai</h1>
 
 <h3 align="left">🛠 Language and tools</h3>
